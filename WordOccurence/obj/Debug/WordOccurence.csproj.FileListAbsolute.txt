@@ -1,0 +1,7 @@
+E:\Aniket Practices\WordOccurence\WordOccurence\bin\Debug\WordOccurence.exe.config
+E:\Aniket Practices\WordOccurence\WordOccurence\bin\Debug\WordOccurence.exe
+E:\Aniket Practices\WordOccurence\WordOccurence\bin\Debug\WordOccurence.pdb
+E:\Aniket Practices\WordOccurence\WordOccurence\obj\Debug\WordOccurence.csprojAssemblyReference.cache
+E:\Aniket Practices\WordOccurence\WordOccurence\obj\Debug\WordOccurence.csproj.CoreCompileInputs.cache
+E:\Aniket Practices\WordOccurence\WordOccurence\obj\Debug\WordOccurence.exe
+E:\Aniket Practices\WordOccurence\WordOccurence\obj\Debug\WordOccurence.pdb
